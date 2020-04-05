@@ -36,4 +36,3 @@ This mod is currently stable, as I have tested it, I do not know if any changes 
 
 ## Compatibility:
 *	This mod adds a new stuff category (like metallic) added via patch operations to doors, walls, some furniture and some recreation structures.
-*	Also adds this category to Medieval Times embrasure and parapet, so you will be able to build those with plastics. That means that should not be any incompatibilities with other mods.

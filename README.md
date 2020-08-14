@@ -32,7 +32,7 @@ With it, you can construct advanced plastic based items.
 *	Craft spacer advanced plastic full helmet and armor. Light and very strong, made from advanced plastic and hyperwave.
 
 ## Suggestions:
-This mod is currently stable, as I have tested it, I do not know if any changes will be made until I may start modding more.
+This mod is currently stable, as I have tested it, I added some changes with RW1.2 update. see the changelog.
 
 ## Compatibility:
 *	This mod adds a new stuff category (like metallic) added via patch operations to doors, walls, some furniture and some recreation structures.

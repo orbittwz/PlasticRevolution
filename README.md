@@ -34,6 +34,6 @@ Adds 3 researches: (Electricity) -> Plastic Production -> Reinforced Plastic Pro
 * I added some changes with RW1.2 update, see the changelog.
 
 ## Compatibility:
-*	This mod adds a new stuff category (like metallic) added via patch operations many buildings and structures.
+*	This mod adds a new stuff category (like metallic) via patch operations, applied to many buildings and structures.
 * This mod is compatibile with the World Gen mod called Real Ruins, I highly recommend it, brings the real life into the game!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295

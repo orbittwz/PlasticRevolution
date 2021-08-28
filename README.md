@@ -31,7 +31,7 @@ Adds 3 researches: (Electricity) -> Plastic Production -> Reinforced Plastic Pro
 
 ## Suggestions:
 * This mod is currently stable, tested it many times.
-* I added some changes with RW1.2 update, see the changelog.
+* I added some changes with RW1.3 update, see the changelog for the zip file.
 
 ## Compatibility:
 *	This mod adds a new stuff category (like metallic) via patch operations, applied to many buildings and structures.

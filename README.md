@@ -37,3 +37,8 @@ Adds 3 researches: (Electricity) -> Plastic Production -> Reinforced Plastic Pro
 *	This mod adds a new stuff category (like metallic) via patch operations, applied to many buildings and structures.
 * This mod is compatibile with the World Gen mod called Real Ruins, I highly recommend it, brings the real life into the game!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295
+* This mod is adding items to be built from plastic to the following mods:
+Combat Extended
+Dubs Bad Hygiene
+you may get them, they are highly recommended.
+

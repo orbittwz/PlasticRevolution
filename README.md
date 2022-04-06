@@ -2,7 +2,7 @@
 Plastic Revolution is a mod for the game RimWorld.
 
 ## Information:
-*	A RimWorld mod that introduce plastic as a material, which applied to many objects in the game.
+*	A RimWorld mod that introduce plastic as a material, which applied to many objects in the game.  
 From buildings to items, if anything can be made from plastic, now it can!
 *	This mod has crafting recipes for Synthread and Hyperwave.
 *	When you enter the map, there should be plastic generated objects on map (unless the seed did not yield any).

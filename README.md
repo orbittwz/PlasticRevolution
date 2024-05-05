@@ -30,7 +30,7 @@ Adds 3 researches: (Electricity) -> Plastic Production -> Reinforced Plastic Pro
 ## Suggestions:
 * This mod is currently stable, tested it many times.
 * I added some changes with RW1.3 update, see the changelog for the zip file.
-* RimWorld 1.4 is now supported.
+* RimWorld 1.5 is now supported.
 
 ## Compatibility:
 *	This mod adds a new stuff category (like metallic) via patch operations, applied to many buildings and structures.

@@ -27,15 +27,14 @@ Adds 3 researches: (Electricity) -> Plastic Production -> Reinforced Plastic Pro
 *	Produce Advanced Plastic from plastic and plasteel, a very light and strong plastic.
 *	Construct Hyperwave with advanced plastic and synthread.
 
-## Suggestions:
-* This mod is currently stable, tested it many times.
-* I added some changes with RW1.3 update, see the changelog for the zip file.
-* RimWorld 1.5 is now supported.
-
 ## Compatibility:
+* This mod is currently stable, tested it many times.
+* RimWorld 1.6 is now supported.
 *	This mod adds a new stuff category (like metallic) via patch operations, applied to many buildings and structures.
 * This mod is compatibile with the World Gen mod called Real Ruins, I highly recommend it, brings the real life into the game!
 https://steamcommunity.com/sharedfiles/filedetails/?id=1552146295
 * This mod is adding items to be built from plastic to the following mods (you may get them, they are highly recommended):  
-Combat Extended  
+Combat Extended
+https://github.com/CombatExtended-Continued/CombatExtended
 Dubs Bad Hygiene
+https://github.com/Dubwise56/Dubs-Bad-Hygiene

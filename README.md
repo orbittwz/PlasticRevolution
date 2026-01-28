@@ -38,3 +38,5 @@ Combat Extended
 https://github.com/CombatExtended-Continued/CombatExtended
 Dubs Bad Hygiene
 https://github.com/Dubwise56/Dubs-Bad-Hygiene
+
+Note: feel free to continue this mod, I'm not modding for the game anymore! (Permission Granted)
